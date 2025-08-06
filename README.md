@@ -28,7 +28,7 @@ She has her own fans and followers on social media. This is a new audience that 
 
 *A professional team with extensive experience in this field will work on content creation and promotion. 
 
-**Important note: aNNa is not an official persone of Aigarth. She is a news and visual media personality who will keep you up to date on all the latest project news and generate interest.
+**Important note: aNNa is not an official person of Aigarth. She is a news and visual media personality who will keep you up to date on all the latest project news and generate interest.
 
 <img width="998" height="814" alt="Снимок экрана 2025-07-21 в 17 57 30" src="https://github.com/user-attachments/assets/c76d6b43-faf2-4f6a-b0eb-f6ea15f85da2" />
 
