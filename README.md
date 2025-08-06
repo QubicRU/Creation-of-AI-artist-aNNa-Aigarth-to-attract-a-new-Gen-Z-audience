@@ -144,7 +144,7 @@ What does this give Qubic?
 
 ## Result: the launch of a strong media personality, aNNa, expands Qubic's audience and lays the groundwork for the launch of the Aigarth in 2027.
 
-<img width="1920" height="1080" alt="1350162377" src="https://github.com/user-attachments/assets/86aa9924-6def-4e6e-a2fa-1a39da80621c" />
+<img width="1920" height="1080" alt="2027" src="https://github.com/user-attachments/assets/dbe17301-d102-4be9-9585-76ced42b0c1d" />
 
 ---
 
