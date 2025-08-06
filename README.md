@@ -7,7 +7,7 @@
 
 **Funding Requested:** 2,3 Billion Qubic per Month (Total: 6,9 Billion Qubic) paid to this address: ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
-**Attention:** The allocated budget for three months will be held by the main marketing team and will be paid to our team on the first day of each month. This condition will allow us to perform our work conscientiously and efficiently and enable the marketing team to control the project.
+**Attention:**  The allocated budget for three months will be held by the main marketing team and will be paid to our team on the first day of each month. This condition will allow us to perform our work conscientiously
 
 ---
 
@@ -29,7 +29,7 @@ She has her own fans and followers on social media. This is a new audience that 
 
 ## PROPOSAL
 
-aNNa already exists and is active on social media. She already has very good viewing and comment statistics. There is a lot of engagement and interest in her. 
+aNNa has been created exclusively for Qubic. aNNa already exists and is active on social media. She already has very good viewing and comment statistics. There is a lot of engagement and interest in her. 
 
  We have turned Aigarth into an AI character who is interesting to follow, communicate with, and interact with. This allows us to build a strong emotional connection and attachment.
  
