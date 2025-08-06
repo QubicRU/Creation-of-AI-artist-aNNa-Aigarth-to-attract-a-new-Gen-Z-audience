@@ -10,9 +10,7 @@
 **Wallet:** ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
 **Available Options:**
-
-Option 0: No, I don’t want
-
+Option 0: No, I don’t want.  
 Option 1: Yes, approve the budget of 6,9 bln QUBIC
 
 **Attention:**  The allocated budget for three months will be held by the marketing team and will be paid to our team on the first day of each month. This condition will allow us to perform our work conscientiously
