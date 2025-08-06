@@ -70,6 +70,8 @@ Currently, the community consists mainly of techies, miners, and traders. The pr
 - Modern ideas in outdated packaging
 Even the most progressive concepts are lost amid a visually and emotionally outdated presentation. The project lacks a “wow” factor.
 
+<img width="1447" height="813" alt="Снимок экрана 2025-08-06 в 14 08 15" src="https://github.com/user-attachments/assets/592ca542-1e6b-45d6-a7bc-5d4502853ed6" />
+
 ---
 ## What aNNa will do
 
@@ -91,7 +93,7 @@ This is not a boring AI presentation — it is a lively, emotional, and recogniz
 
 This initiative aims to transform QUBIC's rapid development into understandable and engaging content that benefits both current owners and those who are just discovering this ecosystem.
 
-<img width="1383" height="678" alt="Снимок экрана 2025-08-05 в 15 36 24" src="https://github.com/user-attachments/assets/eaa18ad2-ba21-4d41-bc7c-6d5dba6b62c9" />
+<img width="1395" height="772" alt="Снимок экрана 2025-08-06 в 14 08 46" src="https://github.com/user-attachments/assets/b490463f-08bd-4279-a19d-131b2fe45c86" />
 
 We are turning Aigarth into an AI persona that
 you can follow, communicate with, and interact with.
@@ -112,7 +114,7 @@ What does this give Qubic?
 
 ## Result: the launch of a strong media personality, aNNa, expands Qubic's audience and lays the groundwork for the launch of the Aigarth in 2027.
 
-<img width="1445" height="810" alt="Снимок экрана 2025-08-05 в 16 00 53" src="https://github.com/user-attachments/assets/52272dd4-4ac9-495e-97f7-e245d1fdd855" />
+<img width="1920" height="1080" alt="1350162377" src="https://github.com/user-attachments/assets/86aa9924-6def-4e6e-a2fa-1a39da80621c" />
 
 ---
 
@@ -197,4 +199,4 @@ We respectfully ask the community to vote “YES” to unlock funding and begin 
 
 **Thank you for your consideration.**
 
-<img width="1441" height="803" alt="Снимок экрана 2025-08-05 в 17 16 11" src="https://github.com/user-attachments/assets/125ff5e7-c471-44e7-9809-ab34a3c35313" />
+<img width="1450" height="813" alt="Снимок экрана 2025-08-06 в 14 09 05" src="https://github.com/user-attachments/assets/2f103ed3-2b07-4692-ba45-e7710251d2ae" />
