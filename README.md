@@ -7,6 +7,8 @@
 
 **Funding Requested:** 2,3 Billion Qubic per Month (Total: 6,9 Billion Qubic) paid to this address: ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
+**Attention:** The allocated budget for three months will be held by the main marketing team and will be paid to our team on the first day of each month. This condition will allow us to perform our work conscientiously and efficiently and enable the marketing team to control the project.
+
 ---
 
 ## Summary
