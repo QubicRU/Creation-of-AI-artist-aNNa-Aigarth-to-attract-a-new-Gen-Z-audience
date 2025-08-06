@@ -103,7 +103,7 @@ It's fresh, original, and proves one thing: Qubic doesn't follow trends — it s
 ---
 
 
-## What is the global goal?
+## 2027. What is the global goal?
 Prepare the crypto community and new Qubic followers for the global concept of Aigarth and unite two audiences of thousands into one large multilingual community.
 
 Sergey and the team are completing work on the aNNa (Aigarth) project — and now we are combining the power and image of aNNa with Qubic's global goal — the creation of Aigarth
