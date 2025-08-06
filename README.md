@@ -1,33 +1,37 @@
  -СHINUK---Ambassador-of-the-Russian-speaking-community-Qubic-and-content-creator
-# Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthening the English-speaking and Russian-speaking ecosystems of Qubic.
+# Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthening the Qubic ecosystems.
 
 **Submitted by:** СHINUK Qubic_RU
 
-**Duration:** 3 Months  
+**Duration:** 3 Months
 
-**Funding Requested:** 2,3 Billion Qubic per Month (Total: 6,9 Billion Qubic) paid to this address: ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
+**Requested Amount:** $15,000 Total @ 0.0000022 - 6.9 bln QUBIC for 3 months 
+
+**Wallet:** ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
 **Attention:**  The allocated budget for three months will be held by the main marketing team and will be paid to our team on the first day of each month. This condition will allow us to perform our work conscientiously
 
 ---
 
-## Summary
+# Summary
 aNNa is the visual and digital embodiment of Aigarth's global artificial intelligence. 
 aNNa will serve as a link between Qubic's complex technologies and crypto enthusiasts around the world. 
 
 In 2027, an incredibly important event will take place — the merger of aNNa and Aigarth. This will be an explosive synergy, bringing together aNNa's followers and subscribers with Aigarth's powerful AI technology. It will be a moment when technology becomes closer to everyone.
 
 She is a girl who will grow and develop alongside the project, transforming from a child into a teenager and then into a young woman.
-
 She has her own fans and followers on social media. This is a new audience that is ready to strengthen Qubic's existing followers.
 
+*A professional team with extensive experience in this field will work on content creation and promotion. 
+
+**Important note: aNNa is not an official persone of Aigarth. She is a news and visual media personality who will keep you up to date on all the latest project news and generate interest.
 
 <img width="998" height="814" alt="Снимок экрана 2025-07-21 в 17 57 30" src="https://github.com/user-attachments/assets/c76d6b43-faf2-4f6a-b0eb-f6ea15f85da2" />
 
 
 ---
 
-## PROPOSAL
+# PROPOSAL
 
 aNNa has been created exclusively for Qubic. aNNa already exists and is active on social media. She already has very good viewing and comment statistics. There is a lot of engagement and interest in her. 
 
@@ -53,15 +57,35 @@ I see that this is yielding good results, and it is time to increase our influen
 
 This proposal describes a three-month initiative to scale up the aNNa project to further increase production volumes, improve product quality, and expand QUBIC's presence on social platforms, including Russian ones. 
 
-I am requesting 2,3 billion Qubic tokens per month for 3 months to intensively develop the existing blog aNNa. (Estimated value: ~$2200 per billion)
+I am requesting 2,3 billion Qubic tokens per month for 3 months to intensively develop the existing blog aNNa.
 This grant allows us to devote all our time to our work, improve product quality, and acquire the distribution tools necessary to reach a wide crypto audience.
 
 ---
-## Problem
+# Deliverables 
+
+We will create all content in Qubic Identity.
+Content will be published daily on all social media platforms in two languages: Russian and English.
+X, Instagram, TikTok, YouTube, Telegram:
+
+| Month    | Deliverables                                       | Compensation |
+|----------|----------------------------------------------------|-----------------|
+| Month 1  | 10 videos + 20 X,Instagram, TikTok posts. 1 music tracks         | 2,3b QUBIC    |
+| Month 2  | 12 videos + 20 X,Instagram, TikTok posts. 1 music tracks         | 2,3b QUBIC    |
+| Month 3  | 14 videos + 20 X,Instagram, TikTok posts. 1 music tracks + 1 clip|2,3b QUBIC     |
+
+### Total Output (3 Months)
+X, Instagram, TikTok, YouTube, Telegram:
+
+- 30-40 informational videos about Qubic over 3 months
+- 60 lifestyle videos about the life of a teenage AI girl and her dreams and plans. Attention-grabbing and trending videos
+- 70 photos from the life of an AI girl
+- 2-4 music tracks posted on Spotify, Apple Music, and other platforms to increase reach to new audiences.
+- 1-2 music videos posted on YouTube made using neural networks.
+
+---
+# Problem
 
 Qubic currently does not have a strong presence on YouTube, and there are relatively few videos appearing in Google searches for many common Qubic-related queries. This means many people searching for information about Qubic find little relevant or high-quality content.
-
-Unfortunately, there is even less content in Russian, and I believe that my main task as an active representative of this community is to help develop and create informative materials about the project in Russian.
 
 - Complex information
 Most of the materials are difficult for new users to understand.
@@ -75,9 +99,9 @@ Even the most progressive concepts are lost amid a visually and emotionally outd
 <img width="1447" height="813" alt="Снимок экрана 2025-08-06 в 14 08 15" src="https://github.com/user-attachments/assets/592ca542-1e6b-45d6-a7bc-5d4502853ed6" />
 
 ---
-## What aNNa will do
+# What aNNa will do
 
-This is not a boring AI presentation — it is a lively, emotional, and recognizable character that makes Qubic seem closer, more modern, and brighter.
+### This is not a boring AI presentation — it is a lively, emotional, and recognizable character that makes Qubic seem closer, more modern, and brighter.
 
 - Creative, multi-format storytelling that informs and energizes the community
 
@@ -103,7 +127,7 @@ It's fresh, original, and proves one thing: Qubic doesn't follow trends — it s
 ---
 
 
-## 2027. What is the global goal?
+# 2027. What is the global goal?
 Prepare the crypto community and new Qubic followers for the global concept of Aigarth and unite two audiences of thousands into one large multilingual community.
 
 Sergey and the team are completing work on the aNNa (Aigarth) project — and now we are combining the power and image of aNNa with Qubic's global goal — the creation of Aigarth
@@ -120,26 +144,8 @@ What does this give Qubic?
 
 ---
 
-## Content to be posted on social media
-Content will be published daily on all social media platforms in two languages: Russian and English.
-X, Instagram, TikTok, YouTube, Telegram:
+# Funding Breakdown
 
-| Month    | Deliverables                                       | Compensation |
-|----------|----------------------------------------------------|-----------------|
-| Month 1  | 10 videos + 20 X,Instagram, TikTok posts. 1 music tracks         | 2,3b QUBIC    |
-| Month 2  | 12 videos + 20 X,Instagram, TikTok posts. 1 music tracks         | 2,3b QUBIC    |
-| Month 3  | 14 videos + 20 X,Instagram, TikTok posts. 1 music tracks + 1 clip|2,3b QUBIC     |
-
-### Total Output (3 Months)
-X, Instagram, TikTok, YouTube, Telegram:
-
-- 30-40 informational videos about Qubic over 3 months
-- 60 lifestyle videos about the life of a teenage AI girl and her dreams and plans. Attention-grabbing and trending videos
-- 70 photos from the life of an AI girl
-- 2-4 music tracks posted on Spotify, Apple Music, and other platforms to increase reach to new audiences.
-- 1-2 music videos posted on YouTube made using neural networks.
-
-## Funding Breakdown
 Content production:
 - Neural network subscriptions
 - Prompt engineer
@@ -171,7 +177,7 @@ NFT and gamification:
 
 ---
 
-## Content Strategy
+# Content Strategy
 
 ### Format & Focus
 - **70% Evergreen Content:** Tutorials, technical explainers, and long-form insights that remain relevant over time
@@ -187,7 +193,7 @@ NFT and gamification:
 **Strategic keyword research** will be applied to fill gaps in YouTube and Google search results, improving Qubic’s online visibility and ensuring new users find high-quality, relevant content.
 
 ---
-### Conclusion
+# Conclusion
 
 aNNa has already demonstrated her ability to attract interest with her posts, publishing creative QUBIC content on X, YouTube, and TikTok. Thanks to the support of the QUBIC Community Creator Fund, we are ready to develop this work further: to increase volume, improve quality, and expand the project's visibility through engaging, accessible content that is in line with the spirit of the ecosystem.
 
