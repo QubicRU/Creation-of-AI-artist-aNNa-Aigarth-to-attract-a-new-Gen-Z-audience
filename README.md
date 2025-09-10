@@ -52,9 +52,9 @@ Video (more than 23k views in 2 months): https://x.com/aigarth_/status/195311358
 
 ## Social media:
 
-Instagram: @Aigarth_
-
 X: https://x.com/aigarth_ 
+
+Instagram: @Aigarth_
 
 TikTok: @Aigarth_
 
@@ -186,9 +186,9 @@ NFT and gamification:
 # Content Strategy
 
 ### Format & Focus
-- **70% Evergreen Content:** Tutorials, technical explainers, and long-form insights that remain relevant over time
+- **60% Evergreen Content:** Tutorials, technical explainers, and long-form insights that remain relevant over time
 - **20% News & Timely Updates:** Weekly updates to keep the community informed about recent developments
-- **10% lifestyle content:** Сreating a lively, interesting digital blogger persona
+- **20% lifestyle content:** Сreating a lively, interesting digital blogger persona
 ### Topics Covered
 - How-to guides: Wallet setup, exchange walkthroughs, Qubic mining
 - Technical explainers: Aigarth, ANNA, the Quorum, feeless transactions
