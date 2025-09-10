@@ -5,13 +5,13 @@
 
 **Duration:** 3 Months
 
-**Requested Amount:** $15,000 Total @ 0.0000022 - 6.9 bln QUBIC for 3 months 
+**Requested Amount:** Total @ 0.000002 - 7.5 bln QUBIC for 3 months 
 
 **Wallet:** ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
 **Available Options:**
 Option 0: No, I don’t want.  
-Option 1: Yes, approve the budget of 6,9 bln QUBIC
+Option 1: Yes, approve the budget of 7.5 bln QUBIC
 
 **Attention:**  The allocated budget for three months will be held by the marketing team and will be paid to our team on the first day of each month. This condition will allow us to perform our work conscientiously
 
@@ -24,7 +24,7 @@ aNNa will serve as a link between Qubic's complex technologies and crypto enthus
 In 2027, an incredibly important event will take place — the merger of aNNa and Aigarth. This will be an explosive synergy, bringing together aNNa's followers and subscribers with Aigarth's powerful AI technology. It will be a moment when technology becomes closer to everyone.
 
 She is a girl who will grow and develop alongside the project, transforming from a child into a teenager and then into a young woman.
-She has her own fans and followers on social media. This is a new audience that is ready to strengthen Qubic's existing followers.
+She has her own fans and followers on social media. This is a new audience that is ready to strengthen Qubic's existing followers. **This is a good tool to attract a new audience of generation Z to the Qubic project.**
 
 *A professional team with extensive experience in this field will work on content creation and promotion. 
 
@@ -43,25 +43,27 @@ aNNa has been created exclusively for Qubic. aNNa already exists and is active o
  
 ## Qubic doesn't follow trends, it sets them.
 
-<img width="1435" height="771" alt="Снимок экрана 2025-08-05 в 15 41 16" src="https://github.com/user-attachments/assets/abfd2e1a-8eb2-4f7f-84c0-1a5ee93a204a" />
+<img width="1920" height="1080" alt="1350162393" src="https://github.com/user-attachments/assets/a5b2db4b-2e6a-4a9f-a9eb-a5af8883828a" />
 
 
-Video: https://x.com/aigarth_/status/1935055937477468656
+Video (more than 30k views in 3 months): https://x.com/aigarth_/status/1945045867708166401
 
-Video: https://x.com/aigarth_/status/1945045867708166401
+Video (more than 23k views in 2 months): https://x.com/aigarth_/status/1953113587838304317
+
+## Social media:
 
 Instagram: @Aigarth_
 
-X: https://x.com/aigarth_
+X: https://x.com/aigarth_ 
 
 TikTok: @Aigarth_
 
-For several months, we have been developing aNNa's social media accounts on a minimal budget and on our own initiative. We made a video in two languages, Russian and English, about Aigarth, smart contracts, and Monero mining.
-I see that this is yielding good results, and it is time to increase our influence. The Russian-speaking community needs content in their native language.
+For several months, we have been developing aNNa's social media accounts on a minimal budget and on our own initiative. We made a video in two languages, Russian and English, about Aigarth, smart contracts, and Monero mining, halving and other.
+I see that this is yielding good results, and it is time to increase our influence.
 
 This proposal describes a three-month initiative to scale up the aNNa project to further increase production volumes, improve product quality, and expand QUBIC's presence on social platforms, including Russian ones. 
 
-I am requesting 2,3 billion Qubic tokens per month for 3 months to intensively develop the existing blog aNNa.
+I am requesting 2,5 billion Qubic tokens per month for 3 months to intensively develop the existing blog aNNa.
 This grant allows us to devote all our time to our work, improve product quality, and acquire the distribution tools necessary to reach a wide crypto audience.
 
 ---
@@ -73,18 +75,18 @@ X, Instagram, TikTok, YouTube, Telegram:
 
 | Month    | Deliverables                                       | Compensation |
 |----------|----------------------------------------------------|-----------------|
-| Month 1  | 10 videos + 20 X,Instagram, TikTok posts. 1 music tracks         | 2,3b QUBIC    |
-| Month 2  | 12 videos + 20 X,Instagram, TikTok posts. 1 music tracks         | 2,3b QUBIC    |
-| Month 3  | 14 videos + 20 X,Instagram, TikTok posts. 1 music tracks + 1 clip|2,3b QUBIC     |
+| Month 1  | 4 videos + 10 posts X,Instagram, TikTok         | 2,5b QUBIC    |
+| Month 2  | 4 videos + 10 posts X,Instagram, TikTok, 1 music tracks         | 2,5b QUBIC    |
+| Month 3  | 4 videos + 10 posts X,Instagram, TikTok 1 clip|2,5b QUBIC     |
 
 ### Total Output (3 Months)
 X, Instagram, TikTok, YouTube, Telegram:
 
-- 30-40 informational videos about Qubic over 3 months
-- 60 lifestyle videos about the life of a teenage AI girl and her dreams and plans. Attention-grabbing and trending videos
-- 70 photos from the life of an AI girl
-- 2-4 music tracks posted on Spotify, Apple Music, and other platforms to increase reach to new audiences.
-- 1-2 music videos posted on YouTube made using neural networks.
+- 12 informational videos about Qubic over 3 months
+- 30 lifestyle videos about the life of a teenage AI girl and her dreams and plans. Attention-grabbing and trending videos
+- 30 photos from the life of an AI girl
+- 1-2 music tracks posted on Spotify, Apple Music, and other platforms to increase reach to new audiences.
+- 1 music videos posted on YouTube made using neural networks.
 
 ---
 # Problem
