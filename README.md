@@ -1,11 +1,11 @@
  -СHINUK---Leader of the Ambassadors of the Russian-speaking community and content creator
 # Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthening the Qubic ecosystems.
 
-**Submitted by:** СHINUK Qubic_RU
+**Submitted by:** СHINUK (@Qubic_RU)
 
 **Duration:** 3 Months
 
-**Requested Amount:** Total @ 0.000002 - 7.5 bln QUBIC for 3 months 
+**Requested Amount:** Total 7.5 bln QUBIC for 3 months 
 
 **Wallet:** ETTLBACYUCMPCCGGLPFPGROOIYJBRQSRVOITYIYWFFSFMISJOZZUQFRBUGUG
 
@@ -75,18 +75,18 @@ X, Instagram, TikTok, YouTube, Telegram:
 
 | Month    | Deliverables                                       | Compensation |
 |----------|----------------------------------------------------|-----------------|
-| Month 1  | 4 videos + 10 posts X,Instagram, TikTok         | 2,5b QUBIC    |
-| Month 2  | 4 videos + 10 posts X,Instagram, TikTok, 1 music tracks         | 2,5b QUBIC    |
-| Month 3  | 4 videos + 10 posts X,Instagram, TikTok 1 clip|2,5b QUBIC     |
+| Month 1  | 4 videos + 10 posts X,Instagram, TikTok + Advertising promotion        | 2,5b QUBIC    |
+| Month 2  | 4 videos + 10 posts X,Instagram, TikTok, 1 music tracks + Advertising promotion        | 2,5b QUBIC    |
+| Month 3  | 4 videos + 10 posts X,Instagram, TikTok 1 clip + Advertising promotion|2,5b QUBIC     |
 
 ### Total Output (3 Months)
-X, Instagram, TikTok, YouTube, Telegram:
+## X, Instagram, TikTok, YouTube, Telegram, Spotify, Apple Music:
 
 - 12 informational videos about Qubic over 3 months
 - 30 lifestyle videos about the life of a teenage AI girl and her dreams and plans. Attention-grabbing and trending videos
 - 30 photos from the life of an AI girl
 - 1-2 music tracks posted on Spotify, Apple Music, and other platforms to increase reach to new audiences.
-- 1 music videos posted on YouTube made using neural networks.
+- 1 music video posted on YouTube made using neural networks.
 
 ---
 # Problem
