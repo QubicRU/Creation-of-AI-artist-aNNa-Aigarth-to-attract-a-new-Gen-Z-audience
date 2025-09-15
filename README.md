@@ -81,14 +81,14 @@ X, Instagram, TikTok, YouTube, Telegram:
 | Month 2  | 4 videos + 10 posts X,Instagram, TikTok, 1 music tracks + Advertising promotion        | 2,5b QUBIC    |
 | Month 3  | 4 videos + 10 posts X,Instagram, TikTok 1 clip + Advertising promotion|2,5b QUBIC     |
 
-### Total Output (3 Months)
-## X, Instagram, TikTok, YouTube, Telegram, Spotify, Apple Music:
+## Total Output (3 Months)
+### X, Instagram, TikTok, YouTube, Telegram, Spotify, Apple Music:
 
 - 12 informational videos about Qubic over 3 months
 - 30 lifestyle videos about the life of a teenage AI girl and her dreams and plans. Attention-grabbing and trending videos
 - 30 photos from the life of an AI girl
 - 1-2 music tracks posted on Spotify, Apple Music, and other platforms to increase reach to new audiences.
-- 1 music video posted on YouTube made using neural networks.
+- 1 music video posted on YouTube.
 
 ---
 # Problem
