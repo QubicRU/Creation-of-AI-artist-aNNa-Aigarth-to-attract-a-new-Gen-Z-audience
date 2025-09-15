@@ -52,11 +52,13 @@ Video (more than 23k views in 2 months): https://x.com/aigarth_/status/195311358
 
 ## Social media:
 
-X: https://x.com/aigarth_ 
+### X: https://x.com/aigarth_ 
 
-Instagram: @Aigarth_
+### Instagram: @Aigarth_
 
-TikTok: @Aigarth_
+### TikTok: @Aigarth_
+
+Social networks that we plan to develop: X, Instagram, TikTok, YouTube, Telegram, Spotify, Apple Music
 
 For several months, we have been developing aNNa's social media accounts on a minimal budget and on our own initiative. We made a video in two languages, Russian and English, about Aigarth, smart contracts, and Monero mining, halving and other.
 I see that this is yielding good results, and it is time to increase our influence.
