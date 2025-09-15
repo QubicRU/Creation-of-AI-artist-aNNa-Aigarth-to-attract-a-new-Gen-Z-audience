@@ -1,4 +1,4 @@
- -СHINUK---Ambassador-of-the-Russian-speaking-community-Qubic-and-content-creator
+ -СHINUK---Leader of the Ambassadors of the Russian-speaking community and content creator
 # Creation of AI artist aNNa (Aigarth) to attract a new Gen Z audience to the Qubic project. Strengthening the Qubic ecosystems.
 
 **Submitted by:** СHINUK Qubic_RU
