@@ -31,7 +31,7 @@ She has her own fans and followers on social media. This is a new audience that 
 **Important note: aNNa is not an official person of Aigarth. She is a news and visual media personality who will keep you up to date on all the latest project news and generate interest.
 
 <img width="998" height="814" alt="Снимок экрана 2025-07-21 в 17 57 30" src="https://github.com/user-attachments/assets/c76d6b43-faf2-4f6a-b0eb-f6ea15f85da2" />
-
+the picture is not the final version. Example
 
 ---
 
@@ -58,7 +58,7 @@ Video (more than 23k views in 2 months): https://x.com/aigarth_/status/195311358
 
 ### TikTok: @Aigarth_
 
-Social networks that we plan to develop: **X, Instagram, TikTok, YouTube, Telegram, Spotify, Apple Music**
+Social networks that we plan to develop: **X, Instagram, TikTok, YouTube, Telegram, Spotify, Apple Music and others**
 
 For several months, we have been developing aNNa's social media accounts on a minimal budget and on our own initiative. We made a video in two languages, Russian and English, about Aigarth, smart contracts, and Monero mining, halving and other.
 I see that this is yielding good results, and it is time to increase our influence.
@@ -197,6 +197,7 @@ NFT and gamification:
 - Qubic news and market updates
 - Visionary and speculative content: Future of Qubic, AGI implications
 - Share lifestyle content on social media, creating a lively, interesting digital blogger persona.
+- And many other topics
 
 **Strategic keyword research** will be applied to fill gaps in YouTube and Google search results, improving Qubic’s online visibility and ensuring new users find high-quality, relevant content.
 
